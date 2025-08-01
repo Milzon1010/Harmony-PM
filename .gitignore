@@ -1,0 +1,20 @@
+# Ignore virtual environments
+env/
+env2/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Excel or CSV test data
+*.xlsx
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.vscode/
+.idea/
